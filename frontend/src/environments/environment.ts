@@ -1,4 +1,4 @@
 export const environment = {
-    production: true,
+    production: false,
     apiBaseUrl: 'https://employeemanager-cyan.vercel.app/'
   };
